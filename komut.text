@@ -1,0 +1,3 @@
+npm init -y      // npm başlatma komutu
+npm i jest -D   // hesti kurmak komutu
+npm test   // bu komut ile test işlemi kontrol ediliyor .
